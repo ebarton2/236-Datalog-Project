@@ -1,0 +1,2 @@
+C:\Users\victo\source\repos\236 Datalog Project\Debug\236 Datalog Project.exe
+C:\Users\victo\source\repos\236 Datalog Project\Debug\236 Datalog Project.pdb
